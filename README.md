@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/khilendra2003-dewangan/khilendra2003-dewangan/main/assets/hero.png" alt="Hero" width="600" height="700" />
+  <img src="https://raw.githubusercontent.com/khilendra2003-dewangan/khilendra2003-dewangan/main/assets/hero.png" alt="Hero" width="600"  />
 </p>
 
 <h2 align="center">Hi 👋 I’m Khilendra – a software developer building AI‑powered web apps and automation.</h2>
